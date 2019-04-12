@@ -18,4 +18,4 @@ enemies and and save his home, friends, and family.
 
 # The Game Screen
 [jlshumaker02 / jlshumaker02.github.io] (/images/alien.png)
-Format: [Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
+Format:[Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
