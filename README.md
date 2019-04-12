@@ -15,3 +15,7 @@ These aliens look harmless but they are actually very agressive when it comes to
 territories. The yellow aliens and the green aliens teamed up to take over the pink aliens' 
 planet. They took out all of the pink alien army except for one ship which has to defeat the 
 enemies and and save his home, friends, and family.
+
+# The Game Screen
+[jlshumaker02 / jlshumaker02.github.io] (/images/alien.png)
+Format: [Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
