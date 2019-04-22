@@ -18,13 +18,13 @@ enemies and and save his home, friends, and family.
 
 # The Ship:
 [jlshumaker02 / jlshumaker02.github.io]
-Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipPink_manned.png)
+Format:(https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipPink_manned.png)
 
 # The Enemies:
 [jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
-Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipGreen_manned.png)
+Format:!(https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipGreen_manned.png)
 [jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
-Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipYellow_manned.png)
+Format:!(https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipYellow_manned.png)
 
 # The UFO:
 [jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
