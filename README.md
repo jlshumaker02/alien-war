@@ -17,7 +17,7 @@ planet. They took out all of the pink alien army except for one ship which has t
 enemies and and save his home, friends, and family.
 
 # The Ship:
-[jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
+[jlshumaker02 / jlshumaker02.github.io]
 Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipPink_manned.png)
 
 # The Enemies:
