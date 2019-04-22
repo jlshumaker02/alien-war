@@ -30,7 +30,7 @@ enemies and and save his home, friends, and family.
 
 
 # The UFO:
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipBlue.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipBlue.png)
 
 
 # The Shield Power-Up:
