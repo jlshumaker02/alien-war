@@ -34,7 +34,7 @@ enemies and and save his home, friends, and family.
 
 
 # The Shield Power-Up:
-![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipYellow_manned.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/powerup.png)
 
 
 # The Game Screen:
