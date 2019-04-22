@@ -24,9 +24,9 @@ enemies and and save his home, friends, and family.
 
 
 # The Enemies:
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipGreen_manned.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipGreen_manned.png)
 
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipYellow_manned.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipYellow_manned.png)
 
 
 # The UFO:
@@ -34,11 +34,11 @@ enemies and and save his home, friends, and family.
 
 
 # The Shield Power-Up:
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/powerup.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipYellow_manned.png)
 
 
 # The Game Screen:
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/Screenshot%20(5).png)
 
 
 # Credits:
