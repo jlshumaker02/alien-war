@@ -24,14 +24,13 @@ enemies and and save his home, friends, and family.
 ![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipYellow_manned.png)
 
 # The UFO:
-[Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipBlue.png)
+![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipBlue.png)
 
 # The Shield Power-Up:
 ![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/powerup.png)
 
 # The Game Screen:
-[jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
-Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
+![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/Screenshot%20(5).png)
 
 # Credits:
 Source: Kenney.nl
