@@ -21,6 +21,8 @@ enemies and and save his home, friends, and family.
 
 # The Enemies:
 ![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipGreen_manned.png)
+
+
 ![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipYellow_manned.png)
 
 # The UFO:
