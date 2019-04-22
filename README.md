@@ -20,7 +20,7 @@ enemies and and save his home, friends, and family.
 
 
 # The Ship:
-![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/shipPink_manned.png)
+![Alt Text](https://raw.githubusercontent.com/jlshumaker02/alien-war/master/assets/images/shipPink_manned.png)
 
 
 # The Enemies:
