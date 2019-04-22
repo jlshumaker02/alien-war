@@ -32,7 +32,7 @@ Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/m
 
 # The Shield Power-Up:
 [jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
-Format:![Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/powerup.png)
+[Alt Text](https://github.com/jlshumaker02/jlshumaker02.github.io/blob/master/assets/images/powerup.png)
 
 # The Game Screen:
 [jlshumaker02 / jlshumaker02.github.io](/images/alien.png)
